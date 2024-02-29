@@ -3,23 +3,23 @@
 ## Tech Stack
 dazeb/magicbox is built on the following main stack:
 
-- [Twilio SendGrid](http://sendgrid.com) – Transactional Email
+- [CoffeeScript](http://coffeescript.org/) – Languages
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [Ruby](https://www.ruby-lang.org) – Languages
+- [Bootstrap](http://getbootstrap.com/) – Front-End Frameworks
+- [Highcharts](http://www.highcharts.com/products/highcharts) – Charting Libraries
 - [Rails](http://rubyonrails.org/) – Frameworks (Full Stack)
 - [jQuery](http://jquery.com/) – Javascript UI Libraries
 - [PostgreSQL](http://www.postgresql.org/) – Databases
-- [Puma](http://puma.io/) – Web Servers
 - [SQLite](http://www.sqlite.org/) – Databases
 - [Sidekiq](http://sidekiq.org/) – Background Processing
-- [Bootstrap](http://getbootstrap.com/) – Front-End Frameworks
-- [CoffeeScript](http://coffeescript.org/) – Languages
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [Devise](https://github.com/plataformatec/devise) – User Management and Authentication
-- [Highcharts](http://www.highcharts.com/products/highcharts) – Charting Libraries
+- [Puma](http://puma.io/) – Web Servers
 - [Rails Spring](https://github.com/rails/spring) – Rails Testing
-- [UglifyJS](http://lisperator.net/uglifyjs/) – Javascript Utilities & Libraries
-- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- [Twilio SendGrid](http://sendgrid.com) – Transactional Email
 - [Bootsnap](https://github.com/shopify/bootsnap) – Ruby Utilities
+- [Devise](https://github.com/plataformatec/devise) – User Management and Authentication
+- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- [UglifyJS](http://lisperator.net/uglifyjs/) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
 
@@ -29,23 +29,23 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 dazeb/magicbox is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/43/kQ_6nwmP.jpg' alt='Twilio SendGrid'/> [Twilio SendGrid](http://sendgrid.com) – Transactional Email
+- <img width='25' height='25' src='https://img.stackshare.io/service/1178/slQydAMv.png' alt='CoffeeScript'/> [CoffeeScript](http://coffeescript.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1101/C9QJ7V3X.png' alt='Bootstrap'/> [Bootstrap](http://getbootstrap.com/) – Front-End Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/1435/Vx4_Psj1.png' alt='Highcharts'/> [Highcharts](http://www.highcharts.com/products/highcharts) – Charting Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/990/x57_Lorv.png' alt='Rails'/> [Rails](http://rubyonrails.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg' alt='jQuery'/> [jQuery](http://jquery.com/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/1028/ASOhU5xJ.png' alt='PostgreSQL'/> [PostgreSQL](http://www.postgresql.org/) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/1055/favicon.png' alt='Puma'/> [Puma](http://puma.io/) – Web Servers
 - <img width='25' height='25' src='https://img.stackshare.io/service/1071/sqlite.jpg' alt='SQLite'/> [SQLite](http://www.sqlite.org/) – Databases
 - <img width='25' height='25' src='https://img.stackshare.io/service/1078/4b7277462dadad85454ab427ce3f0ca7.png' alt='Sidekiq'/> [Sidekiq](http://sidekiq.org/) – Background Processing
-- <img width='25' height='25' src='https://img.stackshare.io/service/1101/C9QJ7V3X.png' alt='Bootstrap'/> [Bootstrap](http://getbootstrap.com/) – Front-End Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/1178/slQydAMv.png' alt='CoffeeScript'/> [CoffeeScript](http://coffeescript.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1432/devise.png' alt='Devise'/> [Devise](https://github.com/plataformatec/devise) – User Management and Authentication
-- <img width='25' height='25' src='https://img.stackshare.io/service/1435/Vx4_Psj1.png' alt='Highcharts'/> [Highcharts](http://www.highcharts.com/products/highcharts) – Charting Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/1055/favicon.png' alt='Puma'/> [Puma](http://puma.io/) – Web Servers
 - <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='Rails Spring'/> [Rails Spring](https://github.com/rails/spring) – Rails Testing
-- <img width='25' height='25' src='https://img.stackshare.io/service/2203/default_9058af6f02375a99f634f537d727e32df92ac262.png' alt='UglifyJS'/> [UglifyJS](http://lisperator.net/uglifyjs/) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- <img width='25' height='25' src='https://img.stackshare.io/service/43/kQ_6nwmP.jpg' alt='Twilio SendGrid'/> [Twilio SendGrid](http://sendgrid.com) – Transactional Email
 - <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='Bootsnap'/> [Bootsnap](https://github.com/shopify/bootsnap) – Ruby Utilities
+- <img width='25' height='25' src='https://img.stackshare.io/service/1432/devise.png' alt='Devise'/> [Devise](https://github.com/plataformatec/devise) – User Management and Authentication
+- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- <img width='25' height='25' src='https://img.stackshare.io/service/2203/default_9058af6f02375a99f634f537d727e32df92ac262.png' alt='UglifyJS'/> [UglifyJS](http://lisperator.net/uglifyjs/) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
 
@@ -56,7 +56,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [dazeb/magicbox](https://github.com/dazeb/magicbox)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|58<br/>Tools used|01/11/24 <br/>Report generated|
+|58<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
